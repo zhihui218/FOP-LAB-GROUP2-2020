@@ -1,0 +1,6 @@
+# Ignore all folder
+.xml
+.class
+build
+nbproject
+test
