@@ -1,6 +1,6 @@
 # Ignore all folder
 .xml
 .class
-build
+build/
 nbproject
 test
