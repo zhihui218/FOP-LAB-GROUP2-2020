@@ -1,0 +1,5 @@
+i think StringBuilder has a method called reverse()
+if we straight forward print inside the for loop can?
+haha okay
+ask staff haha
+they change protocol maybe(?)
