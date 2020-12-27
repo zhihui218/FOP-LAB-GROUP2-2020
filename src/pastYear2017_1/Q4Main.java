@@ -10,8 +10,8 @@ public class Q4Main {
         Complex complexA = new Complex(10, 2);
         Complex complexB = new Complex(8, 9);
         
-        System.out.println(complexA);
-        System.out.println(complexB);
+        System.out.println(complexA.toString());
+        System.out.println(complexB.toString());
         
         complexA.addComplexNumber(complexB);
         System.out.println(complexA);
